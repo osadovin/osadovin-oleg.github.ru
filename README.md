@@ -45,14 +45,14 @@
 <body>
 <!-- Header -->
 <div class="header">
-    <h1>Мое портфолио</h1>
+    <h1>ЦИММЕРМАН ОЛЕГ РУДОЛЬФОВИЧ</h1>
     <p>Веб сайт построен с <b>использованием</b> технологий<br> HTML и CSS</p>
     </div>
 
 <!-- Навигационное меню -->
 
 <div class="navbar">
-    <a href="#" class="nv-active">Главная</a>
+    <a href="#" class="nv-active">Главная<https://vk.com/id108785034/a>
     <a href="/pages/page1.html">Галерея</a>
     <a href="#">Проекты</a>
     <a href="#">Контакты</a>
@@ -62,8 +62,8 @@
 <div class="row">
     <div class="side">
     <h2>Обо мне</h2>
-    <h4>Я любимый:</h4>
-    <div class="fakeimg"><img src="img/H_N_Y.jpg" style="width: 100%;"></div>
+    <h4>Умею делать верстку CSS и программировать на языке JavaScript </h4>
+    <div class="fakeimg"><img src="img/AZ8.jpg" style="width: 100%;"></div>
     <p>Немного текста обо мне</p>
     <h3>Основные проекты</h3>
     <p>Название</p>
