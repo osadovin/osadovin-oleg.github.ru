@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
- <a href="file:///C:/полный/путь/к/файлу.txt">Локальный файл</a>
+
         
         .row {
             display: flex;
